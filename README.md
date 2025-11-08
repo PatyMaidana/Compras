@@ -8,7 +8,7 @@ Cada compra é lançada com seu descritivo e valor correspondente.
 O sistema trabalha com loop while para o usuário escolher parar ou continuar as compras. 
 Ao interromper o loop o sistema apresenta a lista, ordenada por valor, das compras efetuadas e o saldo restante. 
 
-## Conceitos trabalhos no exercício
+## Conceitos trabalhados no exercício
 * Scanner
 * While
 * If/Else
